@@ -96,8 +96,7 @@ type B to change both, or type Q to quit: ")
     elif decider == "Q":
         sys.exit()
     else:
-        print("\n" + "Oh no -- your input isn't quite right! Restart the program and try again :) ")
-        break
+        print("\n" + "Oh no -- your input isn't quite right! Try again :) " + "\n")
     #####################################
 
     # Change this to try different math operations!
