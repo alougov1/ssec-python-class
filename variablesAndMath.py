@@ -75,9 +75,9 @@ while 1:
 
 
 
-'''
-Have fun playing around with this code!
-'''
+    '''
+    Have fun playing around with this code!
+    '''
 
 
 
@@ -105,9 +105,9 @@ type B to change both, or type Q to quit: ")
 
 
 
-'''
-No need to change the code below here
-'''
+    '''
+    No need to change the code below here
+    '''
 
 
     #handle events
